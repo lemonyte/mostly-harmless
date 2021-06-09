@@ -1,7 +1,7 @@
 # 0
 import os, sys, subprocess, time, pyautogui
 number = __file__.split('_', 1)[1]
-number = int(number[:len(number)-3]) + 1
+number = int(number[:len(number) - 3]) + 1
 filePath = f'{os.getcwd()}/mostly-harmless_{number}.py'
 file = open(filePath, 'w').close()
 subprocess.Popen(['notepad.exe', filePath])
