@@ -6,6 +6,6 @@ Just another tiny program that's, well, mostly harmless.
 ## Requirements
 * Windows operating system
 * [Python 3.9](https://www.python.org/downloads/) or higher
-* [pyautogui](https://pypi.org/project/PyAutoGUI/)
+* [`pyautogui`](https://pypi.org/project/PyAutoGUI/)
 ## License
 [MIT License](https://choosealicense.com/licenses/mit/)
